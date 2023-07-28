@@ -57,6 +57,7 @@ p {
   .label {
     display: initial;
     margin-left: 320px;
+    margin-top: -20px;
   }
   .links {
     display: flex;
@@ -262,4 +263,3 @@ p {
     border: 1px solid;
     margin-bottom: 20px;
   }
-}
